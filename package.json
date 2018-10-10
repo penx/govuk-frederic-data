@@ -1,11 +1,8 @@
 {
-  "name": "@govuk-frederic/data",
+  "name": "@govuk-frederic/sample-data",
   "version": "0.0.1",
-  "description": "Example data to power examples that use the Frederic modularisation stack",
+  "description": "Sample data to power examples that use the Frederic modularisation stack",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/penx/govuk-frederic-data.git"
