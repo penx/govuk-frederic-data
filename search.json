@@ -1,0 +1,72 @@
+{
+  "searchCategories": [
+    {
+      "categoryTitle": "Actors",
+      "fields": [
+        {
+          "type": "dynamic",
+          "label": "Choose a category",
+          "name": "somethingHere",
+          "options": [
+            {
+              "title" : "Name",
+              "value" : "name"
+            },
+            {
+              "title" : "Date of birth",
+              "value" : "dob"
+            },
+            {
+              "title" : "Awards",
+              "value" : "awards"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "categoryTitle": "Directors",
+      "fields": [
+        {
+          "type": "text",
+          "name": "director",
+          "title": "Director",
+          "label": "Enter the name of a director"
+        }
+      ]
+    },
+    {
+      "categoryTitle": "Props",
+      "fields": [
+        {
+          "type": "text",
+          "name": "props",
+          "title": "Props",
+          "label": "Enter a prop used in a film"
+        }
+      ]
+    },
+    {
+      "categoryTitle": "Locations",
+      "fields": [
+        {
+          "type": "text",
+          "name": "location",
+          "title": "Location",
+          "label": "Enter a location shot for a film"
+        }
+      ]
+    },
+    {
+      "categoryTitle": "Scenes",
+      "fields": [
+        {
+          "type": "text",
+          "name": "scenes",
+          "title": "Scenes",
+          "label": "Enter a scene name from a film"
+        }
+      ]
+    }
+  ]
+}

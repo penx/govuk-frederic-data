@@ -1,0 +1,19 @@
+{
+  "name": "@govuk-frederic/data",
+  "version": "0.0.1",
+  "description": "Example data to power examples that use the Frederic modularisation stack",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/penx/govuk-frederic-data.git"
+  },
+  "author": "Alasdair McLeay",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/penx/govuk-frederic-data/issues"
+  },
+  "homepage": "https://github.com/penx/govuk-frederic-data#readme"
+}

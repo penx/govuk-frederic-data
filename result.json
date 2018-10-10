@@ -1,0 +1,29 @@
+{
+  "title": "Result title",
+  "sections": [
+    {
+      "type": "meta",
+      "title": "section title",
+      "content": {
+        "title": "MetaTitle",
+        "items": [
+          {
+            "title": "Item",
+            "count": "3"
+          },
+          {
+            "title": "Item",
+            "count": "1"
+          }
+        ]
+      }
+    },
+    {
+      "type": "table",
+      "title": "section title",
+      "content": [
+
+      ]
+    }
+  ]
+}
