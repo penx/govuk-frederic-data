@@ -1,194 +1,192 @@
-{
-  "payload": [
-    {
-      "title": "Results one",
-      "results": [
-        {
-          "title": "Result title",
-          "synopsis": "Summary of result data, To help the user identify,That it is what they are looking for",
-          "meta": [
-            {
-              "title": "MetaTitle",
-              "items": [
-                {
-                  "title": "Item",
-                  "count": 3
-                },
-                {
-                  "title": "Item",
-                  "count": 1
-                }
-              ]
-            },
-            {
-              "title": "MetaTitle",
-              "items": [
-                {
-                  "title": "Item",
-                  "count": 2
-                },
-                {
-                  "title": "Item",
-                  "count": 6
-                }
-              ]
-            },
-            {
-              "title": "MetaTitle",
-              "items": [
-                {
-                  "title": "Item",
-                  "count": 2
-                },
-                {
-                  "title": "Item",
-                  "count": 6
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "title": "Result title",
-          "synopsis": "Summary of result data, To help the user identify,That it is what they are looking for",
-          "meta": [
-            {
-              "title": "MetaTitle",
-              "items": [
-                {
-                  "title": "Item",
-                  "count": 3
-                },
-                {
-                  "title": "Item",
-                  "count": 1
-                }
-              ]
-            },
-            {
-              "title": "MetaTitle",
-              "items": [
-                {
-                  "title": "Item",
-                  "count": 2
-                },
-                {
-                  "title": "Item",
-                  "count": 6
-                }
-              ]
-            },
-            {
-              "title": "MetaTitle",
-              "items": [
-                {
-                  "title": "Item",
-                  "count": 2
-                },
-                {
-                  "title": "Item",
-                  "count": 6
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "title": "Result title",
-          "synopsis": "Summary of result data, To help the user identify,That it is what they are looking for",
-          "meta": [
-            {
-              "title": "MetaTitle",
-              "items": [
-                {
-                  "title": "Item",
-                  "count": 3
-                },
-                {
-                  "title": "Item",
-                  "count": 1
-                }
-              ]
-            },
-            {
-              "title": "MetaTitle",
-              "items": [
-                {
-                  "title": "Item",
-                  "count": 2
-                },
-                {
-                  "title": "Item",
-                  "count": 6
-                }
-              ]
-            },
-            {
-              "title": "MetaTitle",
-              "items": [
-                {
-                  "title": "Item",
-                  "count": 2
-                },
-                {
-                  "title": "Item",
-                  "count": 6
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "title": "Results two",
-      "results": [
-        {
-          "title": "Another Result title",
-          "synopsis": "Summary of result data, To help the user identify,That it is what they are looking for",
-          "meta": [
-            {
-              "title": "MetaTitle",
-              "items": [
-                {
-                  "title": "Item",
-                  "count": 3
-                },
-                {
-                  "title": "Item",
-                  "count": 1
-                }
-              ]
-            },
-            {
-              "title": "MetaTitle",
-              "items": [
-                {
-                  "title": "Item",
-                  "count": 2
-                },
-                {
-                  "title": "Item",
-                  "count": 6
-                }
-              ]
-            },
-            {
-              "title": "MetaTitle",
-              "items": [
-                {
-                  "title": "Item",
-                  "count": 2
-                },
-                {
-                  "title": "Item",
-                  "count": 6
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    }
-  ]
-}
+[
+  {
+    "title": "Results one",
+    "results": [
+      {
+        "title": "Result title",
+        "synopsis": "Summary of result data, To help the user identify,That it is what they are looking for",
+        "meta": [
+          {
+            "title": "MetaTitle",
+            "items": [
+              {
+                "title": "Item",
+                "count": 3
+              },
+              {
+                "title": "Item",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "title": "MetaTitle",
+            "items": [
+              {
+                "title": "Item",
+                "count": 2
+              },
+              {
+                "title": "Item",
+                "count": 6
+              }
+            ]
+          },
+          {
+            "title": "MetaTitle",
+            "items": [
+              {
+                "title": "Item",
+                "count": 2
+              },
+              {
+                "title": "Item",
+                "count": 6
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Result title",
+        "synopsis": "Summary of result data, To help the user identify,That it is what they are looking for",
+        "meta": [
+          {
+            "title": "MetaTitle",
+            "items": [
+              {
+                "title": "Item",
+                "count": 3
+              },
+              {
+                "title": "Item",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "title": "MetaTitle",
+            "items": [
+              {
+                "title": "Item",
+                "count": 2
+              },
+              {
+                "title": "Item",
+                "count": 6
+              }
+            ]
+          },
+          {
+            "title": "MetaTitle",
+            "items": [
+              {
+                "title": "Item",
+                "count": 2
+              },
+              {
+                "title": "Item",
+                "count": 6
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Result title",
+        "synopsis": "Summary of result data, To help the user identify,That it is what they are looking for",
+        "meta": [
+          {
+            "title": "MetaTitle",
+            "items": [
+              {
+                "title": "Item",
+                "count": 3
+              },
+              {
+                "title": "Item",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "title": "MetaTitle",
+            "items": [
+              {
+                "title": "Item",
+                "count": 2
+              },
+              {
+                "title": "Item",
+                "count": 6
+              }
+            ]
+          },
+          {
+            "title": "MetaTitle",
+            "items": [
+              {
+                "title": "Item",
+                "count": 2
+              },
+              {
+                "title": "Item",
+                "count": 6
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Results two",
+    "results": [
+      {
+        "title": "Another Result title",
+        "synopsis": "Summary of result data, To help the user identify,That it is what they are looking for",
+        "meta": [
+          {
+            "title": "MetaTitle",
+            "items": [
+              {
+                "title": "Item",
+                "count": 3
+              },
+              {
+                "title": "Item",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "title": "MetaTitle",
+            "items": [
+              {
+                "title": "Item",
+                "count": 2
+              },
+              {
+                "title": "Item",
+                "count": 6
+              }
+            ]
+          },
+          {
+            "title": "MetaTitle",
+            "items": [
+              {
+                "title": "Item",
+                "count": 2
+              },
+              {
+                "title": "Item",
+                "count": 6
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]
