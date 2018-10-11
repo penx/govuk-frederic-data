@@ -5,12 +5,12 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/penx/govuk-frederic-data.git"
+    "url": "git+https://github.com/penx/govuk-frederic-sample-data.git"
   },
   "author": "Alasdair McLeay",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/penx/govuk-frederic-data/issues"
+    "url": "https://github.com/penx/govuk-frederic-sample-data/issues"
   },
-  "homepage": "https://github.com/penx/govuk-frederic-data#readme"
+  "homepage": "https://github.com/penx/govuk-frederic-sample-data#readme"
 }
